@@ -1,0 +1,2 @@
+sentence = input('Please enter your sentence: ')
+print(str(len(sentence.split())))
